@@ -16,8 +16,8 @@ Mendix 7.2
 Place the widget in the context of an object that has a value attribute.
 
 The value attribute specified in the `General` tab is optional. If not set, a static value should be specified.
-![1](https://raw.githubusercontent.com/mendixlabs/badge/v1.1.2/assets/General.png)
-![1](https://raw.githubusercontent.com/mendixlabs/badge/v1.1.2/assets/Display.png)
+![1](badge/v1.1.2/assets/General.png)
+![1](/badge/v1.1.2/assets/Display.png)
 ![1](https://raw.githubusercontent.com/mendixlabs/badge/v1.1.2/assets/Events.png)
 
 ## Demo project
@@ -46,7 +46,7 @@ To set up the development environment, run:
 
 Create a folder named dist in the project root.
 
-Create a Mendix test project in the dist folder and rename its root folder to `dist/MxTestProject`. Or get the test project from [https://github.com/MendixLabs/badge/releases/download/v1.1.2/TestBadge.mpk](https://github.com/MendixLabs/badge/releases/download/v1.1.2/TestBadge.mpk). Changes to the widget code shall be automatically pushed to this test project.
+Create a Mendix test project in the dist folder and rename its root folder to `dist/MxTestProject`. Or get the test project from [https://github.com/MendixLabs/badge/releases/download/v1.1.2/TestBadge.mpk](badge/releases/download/v1.1.2/TestBadge.mpk). Changes to the widget code shall be automatically pushed to this test project.
 
 To automatically compile, bundle and push code changes to the running test project, run:
 
